@@ -16,6 +16,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/bitra/proprietary/odm/etc/camera/CameraHWConfiguration.config:$(TARGET_COPY_OUT_ODM)/etc/camera/CameraHWConfiguration.config \
     vendor/realme/bitra/proprietary/odm/etc/camera/camera_engmode.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/camera_engmode.xml \
     vendor/realme/bitra/proprietary/odm/etc/camera/config/camera_unit_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/camera_unit_config \
+    vendor/realme/bitra/proprietary/odm/etc/camera/config/camera_unit_feature_config.protobuf:$(TARGET_COPY_OUT_ODM)/etc/camera/config/camera_unit_feature_config.protobuf \
     vendor/realme/bitra/proprietary/odm/etc/camera/config/hi846:$(TARGET_COPY_OUT_ODM)/etc/camera/config/hi846 \
     vendor/realme/bitra/proprietary/odm/etc/camera/config/imx471:$(TARGET_COPY_OUT_ODM)/etc/camera/config/imx471 \
     vendor/realme/bitra/proprietary/odm/etc/camera/config/oplus_camera_aps_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/oplus_camera_aps_config \
@@ -57,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/bitra/proprietary/odm/etc/samsung1024_ana6706_colorful_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ana6706_colorful_eyeprotect_data.xml \
     vendor/realme/bitra/proprietary/odm/etc/samsung1024_ana6706_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ana6706_eyeprotect_data.xml \
     vendor/realme/bitra/proprietary/odm/etc/samsung1024_ana6706_srgb_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ana6706_srgb_eyeprotect_data.xml \
+    vendor/realme/bitra/proprietary/odm/etc/sensor/config/kona_bu52053nvx_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_bu52053nvx_0.json \
     vendor/realme/bitra/proprietary/odm/etc/sensor/config/kona_qrd_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_bmi26x_0.json \
     vendor/realme/bitra/proprietary/odm/etc/sensor/config/kona_qrd_cct.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_cct.json \
     vendor/realme/bitra/proprietary/odm/etc/sensor/config/kona_qrd_cct_rear.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_cct_rear.json \
